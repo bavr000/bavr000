@@ -2,7 +2,7 @@
 
 # Hi, I'm Mateo 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=42+Student;C+%C2%B7+Python+%C2%B7+Go+%C2%B7+TypeScript;A+C%23+game+is+coming+to+Steam...;Currently+learning+Rust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=42+Student;C+%C2%B7+Python+%C2%B7+Go;A+C%23+game+is+coming+to+Steam...;Currently+learning+Rust" alt="Typing SVG" />
 
 <br/>
 
